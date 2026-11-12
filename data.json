@@ -1,0 +1,22 @@
+[
+  {
+    "type": "hero",
+    "props": {
+      "title": "Welcome to Guardian AI",
+      "subtitle": "Secure and fast orchestration."
+    }
+  },
+  {
+    "type": "pricing",
+    "props": {
+      "plan": "Pro Tier",
+      "price": "$99/mo"
+    }
+  },
+  {
+    "type": "slider",
+    "props": {
+      "images": ["img1.png", "img2.png"]
+    }
+  }
+]
